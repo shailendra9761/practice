@@ -9,4 +9,5 @@ git training
 fork this repo
 line for rebashing 
 more changes from myfeature
-changes fir stashing 
+changes for stashing 
+upto date
