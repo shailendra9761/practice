@@ -1,0 +1,25 @@
+From c277e6ca29f81bdb9af5e222568fe18a34df06de Mon Sep 17 00:00:00 2001
+From: shailendra <mrabe@git.training>
+Date: Fri, 21 Aug 2026 11:21:57 +0530
+Subject: [PATCH] change title
+
+---
+ simple.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/simple.html b/simple.html
+index b040ba8..0fffa63 100644
+--- a/simple.html
++++ b/simple.html
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html>
+ <!-- copyright git ading chnages again changes  -->
+ <head>
+-	<title>new  simple WebPage from Stash Exmaple 2</title>
++	<title>new  simple WebPage from Stash Exmaple 2 i am creating a patch pthch 2</title>
+ 	<link rel="stylesheet" href="css/bootstrap.min.css">
+ 	<style>
+ 		body {
+-- 
+2.55.0.windows.3
+
